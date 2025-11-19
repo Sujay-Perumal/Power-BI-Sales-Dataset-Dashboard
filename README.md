@@ -15,7 +15,7 @@ The dashboard displays KPIs, category-level comparisons, country-level profit ma
 
 ---
 
-### 🔗 View my interactive report
+## 🔗 Dashboard File
 [Link to my report](https://app.powerbi.com/links/O9MzNkeCq0?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare)  
 - **Sales Dataset Dashboard.pbix** — Fully interactive Power BI report  
   Includes:  
